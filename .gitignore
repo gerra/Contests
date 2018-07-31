@@ -1,7 +1,8 @@
 *.class
-/idea
-/build
+*/idea
+*/build
 *.iml
 *.o
 /YaTest
 /Yandex.Algorithm2018
+*.xml
