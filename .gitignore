@@ -1,0 +1,7 @@
+*.class
+/idea
+/build
+*.iml
+*.o
+/YaTest
+/Yandex.Algorithm2018
